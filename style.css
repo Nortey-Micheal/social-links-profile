@@ -69,6 +69,7 @@ a{
     color: white;
 }
 
+
 div.link:hover {
     cursor: pointer;
     background-color: hsl(75, 94%, 57%);
